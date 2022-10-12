@@ -10,7 +10,7 @@ Bu repo [Kodluyoruz](https://app.patika.dev) Front-end Eğitiminde oluşturduğu
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
 ```bash
-https://github.com/hllbr/kodluyoruzilkrepo.git
+https://github.com/mssercan/kodluyoruzilkrepo.git
 ```
 # Usage 
 
