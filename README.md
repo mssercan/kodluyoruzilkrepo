@@ -29,3 +29,9 @@ Pull requestler kabul edilir. Büyük değişiklikler için,lütfen önce neyi d
 # License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+## Projenin resmi 
+
+***
+
+![Image]![](projeresmi.png)
