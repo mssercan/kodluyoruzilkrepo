@@ -34,4 +34,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için,lütfen önce neyi d
 
 ***
 
-![Image]![](projeresmi.png)
+![Image](projeresmi.png)
